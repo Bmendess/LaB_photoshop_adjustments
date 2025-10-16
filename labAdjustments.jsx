@@ -7,7 +7,6 @@ DISCLAIMER:
 The color adjustment method used in this script was originally shared by Vjeko from RenderRam.
 For more information and support, visit: https://www.patreon.com/cw/RenderRam
 
-/*
 This is the most common method for running a script.
 Open the image you want to work on in Photoshop.
 Go to the menu bar and select File > Scripts.
