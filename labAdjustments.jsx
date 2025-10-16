@@ -1,5 +1,11 @@
 // Photoshop Script - Lab Color Adjustments
+// Method shared by: https://www.patreon.com/cw/RenderRam
 // This script applies a series of adjustments to Lab color channels.
+
+/*
+DISCLAIMER:
+The color adjustment method used in this script was originally shared by Vjeko from RenderRam.
+For more information and support, visit: https://www.patreon.com/cw/RenderRam
 
 /*
 This is the most common method for running a script.
